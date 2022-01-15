@@ -1,6 +1,6 @@
 # Portfolio
 
-### Homework Assignment Week 8
+### Homework Assignment Week 15
 
 This is an updated portfolio now that we've had practice with both front and backend development along with an additional group project to share.  I'll be updating this page and other materials to build toward being employer-competitive.
 
